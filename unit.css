@@ -92,6 +92,7 @@
     border: 1px solid var(--aqua);
     border-radius: 20px;
     padding: 20px;
+    text-align: center;
 }
 .products_title {
     align-items: center;
