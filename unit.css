@@ -96,6 +96,7 @@
 }
 .products_title {
     align-items: center;
+    margin-bottom: 20px;
 }
 .products__list {
     display: flex;
